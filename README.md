@@ -24,3 +24,6 @@ Things you may want to cover:
 
 * ...
 
+##How to Build
+
+run using `rails s`
